@@ -3,7 +3,7 @@
 <div align="center">
   <h1><b>Course Goals Vue</b></h1>
   </br>
-  <img src="https://vue-community.org/wp-content/uploads/2023/04/vue.gif" alt="logo" width="250"  height="auto" />
+  <img src="https://miro.medium.com/v2/resize:fit:960/1*HOAnonq_MqLeSv43qUPhtg.gif" alt="logo" width="250"  height="auto" />
   <br>
 </div>
 
